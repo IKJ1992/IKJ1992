@@ -5,5 +5,5 @@ I'm interested in natural language processing and representation learning in tex
 I want to talk about NLP and data science with my codes for different level of experience. This github page is updating...  
 
 **You can also follow me on:**
-- [Linkedin](https://linkedin.com/in/ikj1992/)
+- [My Linkedin Page](https://linkedin.com/in/imankhanijazani/)
 
