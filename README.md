@@ -6,7 +6,7 @@ I'm interested in natural language processing and representation learning in tex
 
 I want to talk about NLP and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
 
-> In my free time, I'm working on a [VoXera](https://github.com/VoXera) which is open-source language techs for Persian language. If you are interested, I look forward to working with you in [VoXera](https://github.com/VoXera). 
+> In my free time, I'm working on [VoXera](https://github.com/VoXera) which is open-source language techs for Persian language. If you are interested, I look forward to working with you in [VoXera](https://github.com/VoXera). 
 
 
 **😍 My Interests:**
