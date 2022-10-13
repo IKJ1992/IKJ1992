@@ -28,6 +28,7 @@ I want to talk about NLP and data science with my codes for different experience
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="50" height="40"/>&nbsp;
 </div>
+<br>
 
 **📬 Get in Touch:**
 
