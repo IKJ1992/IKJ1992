@@ -14,6 +14,6 @@ I want to talk about NLP and data science with my codes for different experience
 - data science
 
 **Connect with Me:**
-- [My Linkedin Page](https://linkedin.com/in/imankhanijazani/)
+- [Linkedin](https://linkedin.com/in/imankhanijazani/)
 - [Gmail](imankhanijazani@gmail.com)
 
