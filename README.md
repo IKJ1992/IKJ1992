@@ -9,13 +9,12 @@ I want to talk about NLP and data science with my codes for different experience
 > In my free time, I'm working on a [VoXera](https://github.com/VoXera) which is open-source language techs for Persian language. If you are interested, I look forward to working with you in [VoXera](https://github.com/VoXera). 
 
 
-**😀 My Interests:**
+**😍 My Interests:**
 - machine learning and deep learning
 - natural language processing (text and speech)
 - data science
 
 **📬 Get in Touch:**
-<br>
 
 [![@ImanKhaniJazani](https://img.icons8.com/fluency/48/000000/linkedin.png "@ImanKhaniJazani")](https://www.linkedin.com/in/ImanKhaniJazani/) [![ImanKhaniJazani@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "ImanKhaniJazani@gmail.com")](ImanKhaniJazani@gmail.com)
 
