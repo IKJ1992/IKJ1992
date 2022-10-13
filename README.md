@@ -2,7 +2,7 @@
 
 **🔵 About Me:**
 
-I'm interested in natural language processing and representation learning in text and audio domains. My recent works are about building AI-based assistants to communicate with people in a natural way. My background in academia is in computer science and artificial intelligence from UT and AUT respectively. Since 2015, I have had many different experiences in industry which have been about AI (especially NLP) and data science from developer to management.
+I'm interested in natural language processing and representation learning in text and audio domains. One of my recent works are about building AI-based assistants to communicate with people in a natural way. My background in academia is in computer science and artificial intelligence from UT and AUT respectively. Since 2015, I have had many different experiences in industry which have been about AI (especially NLP) and data science from developer to management.
 
 I want to talk about NLP and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
 
