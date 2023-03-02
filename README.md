@@ -6,8 +6,6 @@ Natural language processing and representation learning in the text and audio do
 
 Also, I have taught through various institutes, online platforms, schools, and universities since 2011 for a variety of people.
 
-Also, I have taught through various institutes, online platforms, schools, and universities since 2011 for a variety of people.
-
 I want to talk about AI and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
 
 > In my free time, I'm working on [VoXera](https://github.com/VoXera) which is open-source language techs for Persian language. If you are interested, I look forward to working with you in [VoXera](https://github.com/VoXera). 
