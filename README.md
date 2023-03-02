@@ -4,9 +4,11 @@
 
 Natural language processing and representation learning in the text and audio domains are of interest to me. Building AI-based assistants to interact with people naturally is one of my most recent projects. Computer science and artificial intelligence are my academic specialties, coming from UT and AUT, respectively. Since 2015, I have had a variety of professional experiences with AI (particularly NLP) and data science, ranging from development to management.
 
-I want to talk about NLP and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
+I want to talk about AI and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
 
 > In my free time, I'm working on [VoXera](https://github.com/VoXera) which is open-source language techs for Persian language. If you are interested, I look forward to working with you in [VoXera](https://github.com/VoXera). 
+
+> I love teaching...
 
 
 **😍 My Interests:**
