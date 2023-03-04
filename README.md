@@ -14,9 +14,11 @@ I want to talk about AI and data science with my codes for different experience 
 
 
 **😍 My Interests:**
+- artificial intelligence
+- data science
 - machine learning and deep learning
 - natural language processing (text and speech)
-- data science
+- AI and data-driven business development
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="40"/>&nbsp;
