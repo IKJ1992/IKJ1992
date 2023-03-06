@@ -16,6 +16,7 @@ I want to talk about AI and data science with my codes for different experience 
 **😍 My Interests:**
 - data science
 - artificial intelligence
+- computational neuroscience
 - machine learning and deep learning
 - AI and data-driven business development
 - natural language processing (text and speech)
