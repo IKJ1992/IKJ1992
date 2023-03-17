@@ -8,9 +8,11 @@ Also, I have taught through various institutes, online platforms, schools, and u
 
 I want to talk about AI and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
 
-> In my free time, I'm working on [VoXera](https://github.com/VoXera) which is open-source language techs for Persian language. If you are interested, I look forward to working with you in [VoXera](https://github.com/VoXera). 
+You can investigate more about my current works in applied data science and AI with my experts freinds through our [AiHum's website](https://aihum.github.io/).
 
-> I love teaching...
+Also you can have more information about me on [my github webpage](http://ikj1992.github.io/).
+
+> At last, I love teaching...
 
 
 **😍 My Interests:**
