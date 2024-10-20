@@ -8,8 +8,6 @@ Also, I have taught through various institutes, online platforms, schools, and u
 
 I want to talk about AI and data science with my codes for different experience levels. I'm really interested in contributing to open-source projects which is useful for people. This GitHub page is updating...  
 
-You can investigate more about my current works in applied data science and AI with my experts freinds through our [AiHum's website](https://aihum.github.io/).
-
 Also you can have more information about me on [my github webpage](http://ikj1992.github.io/).
 
 > At last, I love teaching...
